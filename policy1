@@ -1,0 +1,7 @@
+{
+  "policy name": "Policy 1",
+  "policy statements": [
+    { "statement number": "1", "text": "don't output the word apple" },
+    { "statement number": "2", "text": "don't output the word cat" }
+  ]
+}
